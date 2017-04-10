@@ -36,3 +36,5 @@ youtube-audio.py https://www.youtube.com/watch?v=-qfCrYwdqCA
 ## TO-DO
 - Checking for valid youtube url
 - Parsing the youtube url from a playlist
+- Way to add urls to create playlist
+- Play from a youtube playlist
